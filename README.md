@@ -1,6 +1,14 @@
 # Sound of Silence
 
-A Carrier Command 2 mod that reduces the deafening volume of the engine on the bridge.
+```
+Lowers the sound volume of the engine on the bridge.
+
+---
+
+https://github.com/dtandersen/cc2-quiet-engine
+
+https://discord.gg/nQ5mPPXt#cc2-modding
+```
 
 # Development
 
